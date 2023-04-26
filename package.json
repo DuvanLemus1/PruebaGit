@@ -1,0 +1,14 @@
+{
+  "name": "gitpruebanode",
+  "version": "1.0.0",
+  "description": "prueba",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "prueba"
+  ],
+  "author": "Duvaneli",
+  "license": "ISC"
+}
